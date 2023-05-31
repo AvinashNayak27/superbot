@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pinecone-database/pinecone": "^0.1.6",
     "autoprefixer": "10.4.14",
+    "langchain": "^0.0.87",
     "next": "13.4.4",
     "postcss": "8.4.24",
     "react": "18.2.0",
